@@ -6,4 +6,4 @@ And, this is the 3.0.101 kernel for huawei honor/u8800pro :https://github.com/DE
 
 defconfig : jellytime (xD)
 
-and you can find all device tree here for u880pro/u8860 :https://github.com/desteam
+and you can find all device tree here for u8800pro/u8860 :https://github.com/desteam
